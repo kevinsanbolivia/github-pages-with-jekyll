@@ -9,3 +9,5 @@ twitter_username: kevinsanbolivia # DO NOT include the @ character, or else the 
 github_username:  kevinsanbolivia # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: false # set to false to remove excerpts on the homepage
+
+theme: minima
